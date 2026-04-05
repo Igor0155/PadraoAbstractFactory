@@ -1,0 +1,10 @@
+abstractfactory\FabricaDocumentosFiscais.class
+abstractfactory\Recibo.class
+abstractfactory\FaturaPessoaJuridica.class
+abstractfactory\Fatura.class
+abstractfactory\ReciboPessoaJuridica.class
+abstractfactory\FabricaPessoaJuridica.class
+abstractfactory\ReciboPessoaFisica.class
+abstractfactory\Transacao.class
+abstractfactory\FabricaPessoaFisica.class
+abstractfactory\FaturaPessoaFisica.class
